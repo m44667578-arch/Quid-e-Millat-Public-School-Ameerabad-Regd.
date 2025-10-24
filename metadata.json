@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of Quaid-e-Millat Public School",
+  "description": "A comprehensive website for Quaid-e-Millat Public School Ameerabad, featuring information about events, motives, vision, history, and contact details. Includes a simulated admin panel to manage student and staff counts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
